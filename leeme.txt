@@ -1,0 +1,3 @@
+"Iniciando Examen Ionic" 
+"Agregar proyecto de Personajes Personajes_StarWars" 
+"Bot¢n y etiueta para redireccionar" 
