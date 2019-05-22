@@ -11,9 +11,9 @@ import { AppRoutingModule } from './app-routing.module';
 
 import { DescPerPage } from "./desc-per/desc-per.page"
 import { PersonajePage } from "./Personaje/Personaje.page"
-import { general-grevouspage } from "./general-grevous/general-grevous.page"
-import { padme-amdalaPage } from "./padme-amdala/padme-amdala.page"
-import { yodaPage } from "./yoda/yoda.page"
+import { GeneralGrevousPage } from "./general-grevous/general-grevous.page"
+import { PadmeAmdalaPage } from "./padme-amdala/padme-amdala.page"
+import { YodaPage } from "./yoda/yoda.page"
 
 
 @NgModule({

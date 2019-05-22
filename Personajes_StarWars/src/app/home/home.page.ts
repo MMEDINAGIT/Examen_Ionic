@@ -1,6 +1,9 @@
 import { Component } from '@angular/core';
 import { DescPerPage } from "../desc-per/desc-per.page"
 import { PersonajePage } from "../Personaje/Personaje.page"
+import { GeneralGrevousPage } from "../general-grevous/general-grevous.page"
+import { PadmeAmdalaPage } from "../padme-amdala/padme-amdala.page"
+import { YodaPage } from "../yoda/yoda.page"
 
 @Component({
   selector: 'app-home',
@@ -10,9 +13,9 @@ import { PersonajePage } from "../Personaje/Personaje.page"
 export class HomePage {
   var1=DescPerPage;
   var2=PersonajePage;
-  var3=general-grevouspage;
-  var4=padme-amdalaPage;
-  var5=yodaPage;
+  var3=GeneralGrevousPage;
+  var4=PadmeAmdalaPage;
+  var5=YodaPage;
 
   constructor(){
 
